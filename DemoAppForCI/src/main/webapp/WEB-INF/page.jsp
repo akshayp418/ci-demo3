@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Welcome to Site</title>
 </head>
-<body bgcolor=lightblue>
+<body bgcolor=grey>
 <h2>${requestScope.msg }</h2>
 <p>
 Welcome ${requestScope.user },<br/>
